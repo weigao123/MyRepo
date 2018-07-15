@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="didi"
+           fetch="ssh://git@git.xiaojukeji.com" />
+
+  <remote  name="github"
+		   fetch="ssh://git@github.com" />
+
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+
+  <project name="one-android/TheOneCommons" path="TheOneCommons" revision="5.0"/>
+  <project name="one-android/DIDIShareSDK" path="DIDIShareSDK" revision="share2.0" />
+  <project name="weigao123/MyAndroid" path="TheOneCommons/MyAndroid" />
+</manifest>
