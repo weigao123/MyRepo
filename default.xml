@@ -12,5 +12,5 @@
 
   <project name="one-android/TheOneCommons" path="TheOneCommons" revision="5.0"/>
   <project name="one-android/DIDIShareSDK" path="DIDIShareSDK" revision="share2.0" />
-  <project name="weigao123/MyAndroid" path="TheOneCommons/MyAndroid" />
+  <project name="weigao123/MyAndroid" path="TheOneCommons/MyAndroid" remote="github" />
 </manifest>
